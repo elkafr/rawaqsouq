@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "850548021781",
+    "firebase_url": "https://ouonturaif.firebaseio.com",
+    "project_id": "ouonturaif",
+    "storage_bucket": "ouonturaif.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850548021781:android:d703078e13c1da947e0c1c",
+        "android_client_info": {
+          "package_name": "ismail.com.rawaqsouq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850548021781-a7cefg8f61fabbfod92rs6s3ng5vqcg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCY2g7_-M1AyXQqOw-e9Mlx2qLdI_iu7-I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850548021781-a7cefg8f61fabbfod92rs6s3ng5vqcg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
